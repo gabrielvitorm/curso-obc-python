@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+h1{
+    font-size: 80px;
+    color: #00ff00 ;
+}
